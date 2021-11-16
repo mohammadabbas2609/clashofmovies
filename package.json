@@ -1,0 +1,16 @@
+{
+  "name": "movie-fight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^10.0.0",
+    "netlify-cli": "^6.14.5",
+    "netlify-lambda": "^2.0.15"
+  }
+}
